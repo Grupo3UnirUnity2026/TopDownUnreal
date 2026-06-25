@@ -1988,3 +1988,412 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.25-19.59.52:996][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 708.764099
 [2026.06.25-19.59.53:996][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.25-19.59.53:996][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 709.430969, Update Interval: 339.048431
+[2026.06.25-20.01.04:959][724]LogFab: Display: Add listing to project - 53d48090-eb3f-48b1-b6fd-1508c9aa00bb
+[2026.06.25-20.01.04:959][724]LogFab: Display: Listing type - fbx
+[2026.06.25-20.01.12:753][598]LogFab: Display: Add listing to project - 8ecc05ee-7447-4a8a-af10-1adccc7e8bd2
+[2026.06.25-20.01.12:753][598]LogFab: Display: Listing type - unreal-engine
+[2026.06.25-20.01.12:753][598]LogFab: Display: Base Url https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/ModularS30eeb54ea3e4V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/ModularS30eeb54ea3e4V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/ModularS30eeb54ea3e4V1/CloudDir
+[2026.06.25-20.01.14:713][755]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.14:853][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:854][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior.png]
+[2026.06.25-20.01.14:859][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:859][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Running_withSkin.fbx]
+[2026.06.25-20.01.14:862][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:864][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:865][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:865][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/texture_0_metallic.png]
+[2026.06.25-20.01.14:865][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:865][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/texture_0_normal.png]
+[2026.06.25-20.01.14:866][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:866][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/texture_0_roughness.png]
+[2026.06.25-20.01.14:868][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:870][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:871][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:871][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture_png.png]
+[2026.06.25-20.01.14:871][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:871][755]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture_metallic.png]
+[2026.06.25-20.01.14:872][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:872][755]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.25-20.01.14:922][757]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.14:962][760]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/texture_0_metallic.texture_0_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.14:962][760]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic.Infernal_Warrior_0124123138_texture_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.14:968][761]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/texture_0_roughness.texture_0_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.14:969][761]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/Infernal_Warrior.Infernal_Warrior (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 186.443359 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.15:017][762]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...al_warrior_extracted/Infernal_Warrior.png]
+[2026.06.25-20.01.15:019][762]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture_normal.png]
+[2026.06.25-20.01.15:019][762]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.15:059][763]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png.Infernal_Warrior_0124123138_texture_png (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.15:088][763]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.06.25-20.01.15:101][764]LogTexture: Display: Building textures: /Game/Fab/Infernal_Warrior/texture_0_normal.texture_0_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.06.25-20.01.15:120][764]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/texture_0_roughness.png]
+[2026.06.25-20.01.15:121][764]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture_roughness.png]
+[2026.06.25-20.01.15:121][764]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123138_texture_metallic.png]
+[2026.06.25-20.01.15:121][764]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/texture_0_metallic.png]
+[2026.06.25-20.01.15:122][764]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.15:168][765]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123138_texture_png.png]
+[2026.06.25-20.01.15:248][766]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/texture_0_normal.png]
+[2026.06.25-20.01.15:248][766]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.15:293][767]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.15:387][768]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.15:420][768]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.06.25-20.01.15:493][769]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim.Animation_Running_withSkin_Anim (Required Memory Estimate: 0.19 MB)
+[2026.06.25-20.01.15:496][769]LogAnimationCompression: Display: Storing compressed animation data for /Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim.Animation_Running_withSkin_Anim, at AnimationSequence/e20d58d6a60ac5ef0fd00fa408176ab51d755bf8
+[2026.06.25-20.01.15:506][769]LogSkeletalMesh: Building Skeletal Mesh Animation_Running_withSkin...
+[2026.06.25-20.01.15:507][769]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123138_texture_normal.png]
+[2026.06.25-20.01.15:576][770]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123138_texture_roughness.png]
+[2026.06.25-20.01.15:595][771]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Fab/Infernal_Warrior/Animation_Running_withSkin.Animation_Running_withSkin
+[2026.06.25-20.01.15:706][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.06.25-20.01.15:716][772]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-20.01.15:716][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-20.01.15:724][772]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/Animation_Running_withSkin.fbx]
+[2026.06.25-20.01.15:724][772]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Running_withSkin.fbx : 'Animation_Running_withSkin', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2026.06.25-20.01.15:724][772]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Running_withSkin.fbx : 'Animation_Running_withSkin', SkeletalMesh] No smoothing group information was found for this mesh 'char1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.06.25-20.01.15:768][772]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Walking_withSkin.fbx]
+[2026.06.25-20.01.15:965][775]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.16:173][778]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.16:298][785]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.16:306][786]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim.Animation_Walking_withSkin_Anim (Required Memory Estimate: 0.25 MB)
+[2026.06.25-20.01.16:309][786]LogAnimationCompression: Display: Storing compressed animation data for /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim.Animation_Walking_withSkin_Anim, at AnimationSequence/2cdd9486b43c1e25abafcea33eb89e533cfdd371
+[2026.06.25-20.01.16:312][786]LogSkeletalMesh: Building Skeletal Mesh Animation_Walking_withSkin...
+[2026.06.25-20.01.16:408][798]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin.Animation_Walking_withSkin
+[2026.06.25-20.01.16:428][799]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.06.25-20.01.16:433][799]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-20.01.16:433][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-20.01.16:440][799]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/Animation_Walking_withSkin.fbx]
+[2026.06.25-20.01.16:440][799]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Walking_withSkin.fbx : 'Animation_Walking_withSkin', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2026.06.25-20.01.16:440][799]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Animation_Walking_withSkin.fbx : 'Animation_Walking_withSkin', SkeletalMesh] No smoothing group information was found for this mesh 'char1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.06.25-20.01.16:471][799]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Character_output.fbx]
+[2026.06.25-20.01.16:622][803]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.16:812][806]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.16:892][808]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.06.25-20.01.16:921][808]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.029 s
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: === Handled ensure: ===
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: Ensure condition failed: TimeDescription.RangeStopSecond > TimeDescription.RangeStartSecond  [File:D:\build\++UE5\Sync\Engine\Plugins\Interchange\Runtime\Source\Parsers\Fbx\Private\FbxAnimation.cpp] [Line: 1004] 
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: Stack: 
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa00e200ec UnrealEditor-InterchangeFbxParser.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa00e21aea UnrealEditor-InterchangeFbxParser.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa00e22749 UnrealEditor-InterchangeFbxParser.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa00608908 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa005f908b UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e403d2 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e773c8 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20df00e1 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffa35f8b4ec UnrealEditor-Core.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5308ce4 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a53257ac UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a532589a UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5329114 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533bd04 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533f0ba UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffb42fc7374 KERNEL32.DLL!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: [Callstack] 0x00007ffb4403cc91 ntdll.dll!UnknownFunction []
+[2026.06.25-20.01.16:921][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.16:924][808]LogStats:                SubmitErrorReport -  0.000 s
+[2026.06.25-20.01.18:357][808]LogStats:                    SendNewReport -  1.433 s
+[2026.06.25-20.01.18:357][808]LogStats:             FDebug::EnsureFailed -  1.465 s
+[2026.06.25-20.01.18:357][808]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.06.25-20.01.18:369][808]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.012 s
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: === Handled ensure: ===
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: Ensure condition failed: FPaths::FileExists(AnimationPayloadFile)  [File:D:\build\++UE5\Sync\Engine\Plugins\Interchange\Runtime\Source\Import\Private\Fbx\InterchangeFbxTranslator.cpp] [Line: 477] 
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: Stack: 
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa005f7ccf UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa00608974 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa005f908b UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e403d2 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e773c8 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20df00e1 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffa35f8b4ec UnrealEditor-Core.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5308ce4 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a53257ac UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a532589a UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5329114 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533bd04 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533f0ba UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffb42fc7374 KERNEL32.DLL!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: [Callstack] 0x00007ffb4403cc91 ntdll.dll!UnknownFunction []
+[2026.06.25-20.01.18:369][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.18:379][808]LogStats:                SubmitErrorReport -  0.000 s
+[2026.06.25-20.01.23:020][808]LogStats:                    SendNewReport -  4.641 s
+[2026.06.25-20.01.23:020][808]LogStats:             FDebug::EnsureFailed -  4.662 s
+[2026.06.25-20.01.23:021][808]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.06.25-20.01.23:030][808]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.010 s
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: === Handled ensure: ===
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: Ensure condition failed: AnimationPayloads.Num() == BoneAnimationPayloadQueries.Num()  [File:D:\build\++UE5\Sync\Engine\Plugins\Interchange\Runtime\Source\Import\Private\Animation\InterchangeAnimSequenceFactory.cpp] [Line: 980] 
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: Stack: 
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffa005f90ce UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e403d2 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20e773c8 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffa20df00e1 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffa35f8b4ec UnrealEditor-Core.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5308ce4 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a53257ac UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a532589a UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a5329114 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533bd04 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ff6a533f0ba UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffb42fc7374 KERNEL32.DLL!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: [Callstack] 0x00007ffb4403cc91 ntdll.dll!UnknownFunction []
+[2026.06.25-20.01.23:030][808]LogOutputDevice: Error: 
+[2026.06.25-20.01.23:041][808]LogStats:                SubmitErrorReport -  0.000 s
+[2026.06.25-20.01.25:543][808]LogStats:                    SendNewReport -  2.503 s
+[2026.06.25-20.01.25:544][808]LogStats:             FDebug::EnsureFailed -  2.523 s
+[2026.06.25-20.01.25:621][809]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.25:632][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.25-20.01.25:710][810]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.06.25-20.01.25:725][810]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.015 s
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: === Handled ensure: ===
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: 
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: Ensure condition failed: AnimationTransformPayload.Transforms.Num() == BakeKeyCountForAnimationPayload  [File:D:\build\++UE5\Sync\Engine\Plugins\Interchange\Runtime\Source\Import\Private\Animation\InterchangeAnimSequenceFactory.cpp] [Line: 495] 
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: 
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: Stack: 
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa006271b0 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa00607afd UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20d49955 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20d50949 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20d5e5d6 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20d53017 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20e403d2 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20e773c8 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa20df00e1 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffa35f8b4ec UnrealEditor-Core.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a5308ce4 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a53257ac UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a532589a UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a5329114 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a533bd04 UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ff6a533f0ba UnrealEditor.exe!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffb42fc7374 KERNEL32.DLL!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: [Callstack] 0x00007ffb4403cc91 ntdll.dll!UnknownFunction []
+[2026.06.25-20.01.25:725][810]LogOutputDevice: Error: 
+[2026.06.25-20.01.25:730][810]LogStats:                SubmitErrorReport -  0.000 s
+[2026.06.25-20.01.28:056][810]LogStats:                    SendNewReport -  2.326 s
+[2026.06.25-20.01.28:056][810]LogStats:             FDebug::EnsureFailed -  2.346 s
+[2026.06.25-20.01.28:057][810]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Fab/Infernal_Warrior/Character_output_Anim.Character_output_Anim (Required Memory Estimate: 0.10 MB)
+[2026.06.25-20.01.28:057][810]LogAnimationCompression: Display: Storing compressed animation data for /Game/Fab/Infernal_Warrior/Character_output_Anim.Character_output_Anim, at AnimationSequence/cd576fd08a664f952a8f9935026e5403a96a1e48
+[2026.06.25-20.01.28:071][811]LogSkeletalMesh: Building Skeletal Mesh Character_output...
+[2026.06.25-20.01.28:175][816]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Fab/Infernal_Warrior/Character_output.Character_output
+[2026.06.25-20.01.28:267][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.06.25-20.01.28:272][817]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.06.25-20.01.28:272][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.25-20.01.28:277][817]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...rior_extracted/biped/Character_output.fbx]
+[2026.06.25-20.01.28:278][817]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Character_output.fbx : 'Character_output', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2026.06.25-20.01.28:278][817]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Character_output.fbx : 'Character_output', SkeletalMesh] No smoothing group information was found for this mesh 'char1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.06.25-20.01.28:278][817]Interchange: Error: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/biped/Character_output.fbx : '', Unknown] Cannot fetch FBX animation bake transforms payload because the bake range is invalid.
+[2026.06.25-20.01.28:278][817]Interchange: Warning: [ : '', AnimSequence] Animation Payload [RootNode.Armature.Hips_0_SkeletalAnimationPayloadKey] has unexpected number of Baked Transforms.
+[2026.06.25-20.01.28:317][817]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123125_generate.fbx]
+[2026.06.25-20.01.29:737][824]LogStreaming: Display: FlushAsyncLoading(448): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.30:460][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.25-20.01.30:485][829]LogStaticMesh: Display: Building static mesh Infernal_Warrior_0124123125_generate (Required Memory Estimate: 749.47694 MB)...
+[2026.06.25-20.01.32:849][ 94]LogStaticMesh: Built static mesh [2.36s] /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate.Infernal_Warrior_0124123125_generate
+[2026.06.25-20.01.34:094][189]LogStaticMesh: Warning: Infernal_Warrior_0124123125_generate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.06.25-20.01.34:094][189]LogStaticMesh: Warning: Infernal_Warrior_0124123125_generate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.06.25-20.01.34:224][190]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123125_generate.fbx]
+[2026.06.25-20.01.34:224][190]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123125_generate.fbx : 'Infernal_Warrior_0124123125_generate', StaticMesh] No smoothing group information was found for this mesh 'Mesh1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.06.25-20.01.34:270][190]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture.fbx]
+[2026.06.25-20.01.34:660][199]LogStreaming: Display: FlushAsyncLoading(449): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.34:792][201]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.25-20.01.34:824][202]LogStaticMesh: Display: Building static mesh Infernal_Warrior_0124123138_texture (Required Memory Estimate: 24.238031 MB)...
+[2026.06.25-20.01.34:948][218]LogStaticMesh: Built static mesh [0.12s] /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture.Infernal_Warrior_0124123138_texture
+[2026.06.25-20.01.34:962][219]LogStaticMesh: Warning: Infernal_Warrior_0124123138_texture has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.06.25-20.01.34:962][219]LogStaticMesh: Warning: Infernal_Warrior_0124123138_texture has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.06.25-20.01.35:006][220]LogInterchangeEngine: Display: Interchange import completed [C:/Users/MarinaGT/Ap...24123138_texture_fbx/Infernal_Warrior_0124123138_texture.fbx]
+[2026.06.25-20.01.35:006][220]Interchange: Warning: [C:/Users/MarinaGT/AppData/Local/Temp/FabLibrary/53d48090-eb3f-48b1-b6fd-1508c9aa00bb/infernal_warrior_extracted/Infernal_Warrior_0124123138_texture_fbx/Infernal_Warrior_0124123138_texture.fbx : 'Infernal_Warrior_0124123138_texture', StaticMesh] No smoothing group information was found for this mesh 'Mesh0' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.06.25-20.01.37:529][458]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.06.25-20.01.37:618][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.06.25-20.01.37:644][463]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.06.25-20.01.37:683][466]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.06.25-20.01.37:696][467]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.06.25-20.01.37:712][468]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.06.25-20.01.37:730][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.06.25-20.01.37:769][472]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.06.25-20.01.38:189][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.25-20.01.38:191][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.016
+[2026.06.25-20.01.38:192][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior] ([1] browsable assets)...
+[2026.06.25-20.01.38:193][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/Infernal_Warrior.Infernal_Warrior]
+[2026.06.25-20.01.38:193][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior]
+[2026.06.25-20.01.38:196][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_Auto1
+[2026.06.25-20.01.38:197][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_Auto1142778444C4982E5B54B75843523D3FF.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_Auto1.uasset'
+[2026.06.25-20.01.38:197][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/texture_0_metallic] ([1] browsable assets)...
+[2026.06.25-20.01.38:198][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/texture_0_metallic.texture_0_metallic]
+[2026.06.25-20.01.38:198][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/texture_0_metallic]
+[2026.06.25-20.01.38:201][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/texture_0_metallic_Auto1
+[2026.06.25-20.01.38:201][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/texture_0_metallic_Auto1D521E4094B92A9B88E4A76BAEA70C8EE.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/texture_0_metallic_Auto1.uasset'
+[2026.06.25-20.01.38:202][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/texture_0_roughness] ([1] browsable assets)...
+[2026.06.25-20.01.38:203][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/texture_0_roughness.texture_0_roughness]
+[2026.06.25-20.01.38:203][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/texture_0_roughness]
+[2026.06.25-20.01.38:205][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/texture_0_roughness_Auto1
+[2026.06.25-20.01.38:205][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/texture_0_roughness_Auto19925A73642AFF13FC658E1977F4332C0.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/texture_0_roughness_Auto1.uasset'
+[2026.06.25-20.01.38:206][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/texture_0_normal] ([1] browsable assets)...
+[2026.06.25-20.01.38:207][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/texture_0_normal.texture_0_normal]
+[2026.06.25-20.01.38:207][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/texture_0_normal]
+[2026.06.25-20.01.38:214][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/texture_0_normal_Auto1
+[2026.06.25-20.01.38:214][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/texture_0_normal_Auto1734F7BEF4F644AE59C2656963A579C92.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/texture_0_normal_Auto1.uasset'
+[2026.06.25-20.01.38:215][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic] ([1] browsable assets)...
+[2026.06.25-20.01.38:216][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic.Infernal_Warrior_0124123138_texture_metallic]
+[2026.06.25-20.01.38:216][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic]
+[2026.06.25-20.01.38:219][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic_Auto1
+[2026.06.25-20.01.38:219][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123138_textBE62558349D436EBFDAD90A165D66A15.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_metallic_Auto1.uasset'
+[2026.06.25-20.01.38:220][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png] ([1] browsable assets)...
+[2026.06.25-20.01.38:221][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png.Infernal_Warrior_0124123138_texture_png]
+[2026.06.25-20.01.38:221][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png]
+[2026.06.25-20.01.38:228][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png_Auto1
+[2026.06.25-20.01.38:228][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123138_textFF3E8840477C634124AE4B983BCD3E13.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_png_Auto1.uasset'
+[2026.06.25-20.01.38:229][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_PhysicsAsset] ([1] browsable assets)...
+[2026.06.25-20.01.38:260][504]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Infernal_Warrior/Animation_Running_withSkin_PhysicsAsset.Animation_Running_withSkin_PhysicsAsset]
+[2026.06.25-20.01.38:260][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_PhysicsAsset]
+[2026.06.25-20.01.38:263][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_PhysicsAsset_Auto1
+[2026.06.25-20.01.38:263][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Running_withSkin_PhysiE0EAF626453017AB5893E18784EB226D.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_PhysicsAsset_Auto1.uasset'
+[2026.06.25-20.01.38:264][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/texture_0] ([1] browsable assets)...
+[2026.06.25-20.01.38:265][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/texture_0.texture_0]
+[2026.06.25-20.01.38:265][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/texture_0]
+[2026.06.25-20.01.38:272][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/texture_0_Auto1
+[2026.06.25-20.01.38:272][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/texture_0_Auto1218F3B254A819E309A5A0CBA4D28305D.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/texture_0_Auto1.uasset'
+[2026.06.25-20.01.38:273][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Skeleton] ([1] browsable assets)...
+[2026.06.25-20.01.38:278][504]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Skeleton.Animation_Running_withSkin_Skeleton]
+[2026.06.25-20.01.38:278][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Skeleton]
+[2026.06.25-20.01.38:279][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Skeleton_Auto1
+[2026.06.25-20.01.38:279][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Running_withSkin_Skele86ED98744763776C48400798FDE15682.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Skeleton_Auto1.uasset'
+[2026.06.25-20.01.38:280][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Material_1] ([1] browsable assets)...
+[2026.06.25-20.01.38:284][504]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Infernal_Warrior/Material_1.Material_1]
+[2026.06.25-20.01.38:285][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Material_1]
+[2026.06.25-20.01.38:286][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Material_1_Auto1
+[2026.06.25-20.01.38:286][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Material_1_Auto172392A2247805DF3B60D9C80B40BB5F3.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Material_1_Auto1.uasset'
+[2026.06.25-20.01.38:287][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin] ([1] browsable assets)...
+[2026.06.25-20.01.38:291][504]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Infernal_Warrior/Animation_Running_withSkin.Animation_Running_withSkin]
+[2026.06.25-20.01.38:291][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin]
+[2026.06.25-20.01.38:307][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Auto1
+[2026.06.25-20.01.38:307][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Running_withSkin_Auto11614125A4D1BE8E0A1DAC48AE3001802.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Auto1.uasset'
+[2026.06.25-20.01.38:308][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_normal] ([1] browsable assets)...
+[2026.06.25-20.01.38:309][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_normal.Infernal_Warrior_0124123138_texture_normal]
+[2026.06.25-20.01.38:309][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_normal]
+[2026.06.25-20.01.38:316][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_normal_Auto1
+[2026.06.25-20.01.38:316][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123138_text622983DB466DB22BFFDA1E8670A2B256.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_normal_Auto1.uasset'
+[2026.06.25-20.01.38:317][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_roughness] ([1] browsable assets)...
+[2026.06.25-20.01.38:318][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_roughness.Infernal_Warrior_0124123138_texture_roughness]
+[2026.06.25-20.01.38:318][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_roughness]
+[2026.06.25-20.01.38:320][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_roughness_Auto1
+[2026.06.25-20.01.38:320][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123138_text12A006984F17D8F2A61A6C999E174504.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_roughness_Auto1.uasset'
+[2026.06.25-20.01.38:321][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim] ([1] browsable assets)...
+[2026.06.25-20.01.38:325][504]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim.Animation_Running_withSkin_Anim]
+[2026.06.25-20.01.38:325][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim]
+[2026.06.25-20.01.38:330][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim_Auto1
+[2026.06.25-20.01.38:330][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Running_withSkin_Anim_188997104AC7DB6822F736B1D7E11065.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Running_withSkin_Anim_Auto1.uasset'
+[2026.06.25-20.01.38:330][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_PhysicsAsset] ([1] browsable assets)...
+[2026.06.25-20.01.38:336][504]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_PhysicsAsset.Animation_Walking_withSkin_PhysicsAsset]
+[2026.06.25-20.01.38:336][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_PhysicsAsset]
+[2026.06.25-20.01.38:339][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_PhysicsAsset_Auto1
+[2026.06.25-20.01.38:339][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Walking_withSkin_PhysiE2A1272E49A5C7D6D10841A63718BD03.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_PhysicsAsset_Auto1.uasset'
+[2026.06.25-20.01.38:340][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Skeleton] ([1] browsable assets)...
+[2026.06.25-20.01.38:344][504]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Skeleton.Animation_Walking_withSkin_Skeleton]
+[2026.06.25-20.01.38:344][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Skeleton]
+[2026.06.25-20.01.38:345][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Skeleton_Auto1
+[2026.06.25-20.01.38:345][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Walking_withSkin_Skele74428896423DE68777093CB7DB416E52.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Skeleton_Auto1.uasset'
+[2026.06.25-20.01.38:346][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin] ([1] browsable assets)...
+[2026.06.25-20.01.38:350][504]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin.Animation_Walking_withSkin]
+[2026.06.25-20.01.38:350][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin]
+[2026.06.25-20.01.38:365][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Auto1
+[2026.06.25-20.01.38:365][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Walking_withSkin_Auto16EF41C8B4757461868DF4D9334E2C989.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Auto1.uasset'
+[2026.06.25-20.01.38:366][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim] ([1] browsable assets)...
+[2026.06.25-20.01.38:370][504]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim.Animation_Walking_withSkin_Anim]
+[2026.06.25-20.01.38:370][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim]
+[2026.06.25-20.01.38:374][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim_Auto1
+[2026.06.25-20.01.38:374][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Animation_Walking_withSkin_Anim_9B687C324C1944911BBE2498040D6B80.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Animation_Walking_withSkin_Anim_Auto1.uasset'
+[2026.06.25-20.01.38:375][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Character_output_PhysicsAsset] ([1] browsable assets)...
+[2026.06.25-20.01.38:379][504]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Infernal_Warrior/Character_output_PhysicsAsset.Character_output_PhysicsAsset]
+[2026.06.25-20.01.38:379][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Character_output_PhysicsAsset]
+[2026.06.25-20.01.38:382][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Character_output_PhysicsAsset_Auto1
+[2026.06.25-20.01.38:382][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Character_output_PhysicsAsset_Au25D63D73472820DC3F2FAD851DC788C1.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Character_output_PhysicsAsset_Auto1.uasset'
+[2026.06.25-20.01.38:383][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Character_output_Skeleton] ([1] browsable assets)...
+[2026.06.25-20.01.38:387][504]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Fab/Infernal_Warrior/Character_output_Skeleton.Character_output_Skeleton]
+[2026.06.25-20.01.38:387][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Character_output_Skeleton]
+[2026.06.25-20.01.38:388][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Skeleton_Auto1
+[2026.06.25-20.01.38:388][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Character_output_Skeleton_Auto162DCA9564769BC80821D40A3A2EAB2C4.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Skeleton_Auto1.uasset'
+[2026.06.25-20.01.38:389][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Character_output] ([1] browsable assets)...
+[2026.06.25-20.01.38:393][504]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Infernal_Warrior/Character_output.Character_output]
+[2026.06.25-20.01.38:393][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Character_output]
+[2026.06.25-20.01.38:407][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Auto1
+[2026.06.25-20.01.38:408][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Character_output_Auto1EC11BFB84ED43B321321C2A8106848CE.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Auto1.uasset'
+[2026.06.25-20.01.38:408][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Character_output_Anim] ([1] browsable assets)...
+[2026.06.25-20.01.38:413][504]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Fab/Infernal_Warrior/Character_output_Anim.Character_output_Anim]
+[2026.06.25-20.01.38:413][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Character_output_Anim]
+[2026.06.25-20.01.38:415][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Anim_Auto1
+[2026.06.25-20.01.38:415][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Character_output_Anim_Auto172AE2D724BAF674D45DEFC9642EF0F64.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Character_output_Anim_Auto1.uasset'
+[2026.06.25-20.01.38:415][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate] ([1] browsable assets)...
+[2026.06.25-20.01.38:421][504]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate.Infernal_Warrior_0124123125_generate]
+[2026.06.25-20.01.38:421][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate]
+[2026.06.25-20.01.38:478][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate_Auto1
+[2026.06.25-20.01.38:478][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123125_gene67442B4D4775F50700DFE7BED1F07C12.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123125_generate_Auto1.uasset'
+[2026.06.25-20.01.38:479][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Material_001] ([1] browsable assets)...
+[2026.06.25-20.01.38:483][504]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Infernal_Warrior/Material_001.Material_001]
+[2026.06.25-20.01.38:483][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Material_001]
+[2026.06.25-20.01.38:485][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Material_001_Auto1
+[2026.06.25-20.01.38:485][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Material_001_Auto11C959E2145FC61296538DC9FFE9C40FD.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Material_001_Auto1.uasset'
+[2026.06.25-20.01.38:486][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture] ([1] browsable assets)...
+[2026.06.25-20.01.38:490][504]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture.Infernal_Warrior_0124123138_texture]
+[2026.06.25-20.01.38:490][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture]
+[2026.06.25-20.01.38:496][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_Auto1
+[2026.06.25-20.01.38:496][504]LogSavePackage: Moving '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Infernal_Warrior_0124123138_text1785DBA041957C92F157ECA7952C4EC1.tmp' to '../../../../../../2026_Grupo3_Unreal/TopDownUnreal/GhoulsSurvivors/Saved/Autosaves/Game/Fab/Infernal_Warrior/Infernal_Warrior_0124123138_texture_Auto1.uasset'
+[2026.06.25-20.01.38:496][504]LogFileHelpers: Auto-saving content packages took 0.306
+[2026.06.25-20.02.40:138][913]LogSlate: Window 'Fab' being destroyed
+[2026.06.25-20.02.40:145][913]LogSlate: Window 'Fab' being destroyed
+[2026.06.25-20.02.41:644][ 86]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.06.25-20.02.41:644][ 86]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/library.
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: ================================================
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Total job queries 11 653, among them cache hits 207 (1.78%), DDC hits 971 (8.33%), Duplicates 2479 (21.27%)
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Tracking 8967 distinct input hashes that result in 8474 distinct outputs (94.50%)
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: RAM used: 6,33 MiB of 1,60 GiB budget. Usage: 0.39%
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Shaders Compiled: 7996
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Jobs assigned 7996, completed 7996 (100%)
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Average time worker was idle: 6.30 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Time job spent in pending queue: average 136.11 s, longest 304.72 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Job execution time: average 3.05 s, max 51.44 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Job life time (pending + execution): average 139.15 s, max 305.20
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Shader code size: average 14,365 KiB, min 1,16 KiB, max 330,166 KiB
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 313.68 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.23%
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Jobs were issued in 859 batches (only local compilation was used), average 9.31 jobs/batch
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Average processing rate: 25.49 jobs/sec
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Total thread time: 2410,025 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Total thread preprocess time: 92,599 s
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Percentage time preprocessing: 3.84%
+[2026.06.25-20.03.14:005][856]LogShaderCompilers: Display: Effective parallelization: 7.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 14.15 sec, max 50.67 sec, min 0.82 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 9.47 sec, max 9.47 sec, min 9.47 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.23 sec, max 6.21 sec, min 3.72 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.23 sec, max 4.52 sec, min 0.80 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.85 sec, max 4.18 sec, min 1.01 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.86% of total time (compiled   27 times, average 14.15 sec, max 50.67 sec, min 0.82 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                             FDeferredLightPS - 15.64% of total time (compiled  454 times, average 0.83 sec, max 2.13 sec, min 0.64 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.12% of total time (compiled  480 times, average 0.36 sec, max 2.32 sec, min 0.15 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.83% of total time (compiled   72 times, average 1.62 sec, max 2.35 sec, min 1.18 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.49% of total time (compiled  192 times, average 0.56 sec, max 1.83 sec, min 0.26 sec)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: === Material stats ===
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Materials Translated:    139
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Material Translation Only: 0.03 s (47%)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.06.25-20.03.14:006][856]LogShaderCompilers: Display: ================================================
