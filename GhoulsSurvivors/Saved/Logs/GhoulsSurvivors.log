@@ -1944,3 +1944,47 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.25-19.55.31:345][148]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2026.06.25-19.55.31:345][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.06.25-19.55.31:357][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: ================================================
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Total job queries 11 648, among them cache hits 207 (1.78%), DDC hits 971 (8.34%), Duplicates 2479 (21.28%)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Tracking 8962 distinct input hashes that result in 8471 distinct outputs (94.52%)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: RAM used: 6,32 MiB of 1,60 GiB budget. Usage: 0.39%
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Shaders Compiled: 7991
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Jobs assigned 7991, completed 7991 (100%)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Average time worker was idle: 4.11 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Time job spent in pending queue: average 136.19 s, longest 304.72 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Job execution time: average 3.05 s, max 51.44 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Job life time (pending + execution): average 139.24 s, max 305.20
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Shader code size: average 14,368 KiB, min 1,16 KiB, max 330,166 KiB
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 312.24 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.23%
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Jobs were issued in 854 batches (only local compilation was used), average 9.36 jobs/batch
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Average processing rate: 25.59 jobs/sec
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Total thread time: 2407,929 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Total thread preprocess time: 92,554 s
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Percentage time preprocessing: 3.84%
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Effective parallelization: 7.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 14.15 sec, max 50.67 sec, min 0.82 sec)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 9.47 sec, max 9.47 sec, min 9.47 sec)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.23 sec, max 6.21 sec, min 3.72 sec)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.23 sec, max 4.52 sec, min 0.80 sec)
+[2026.06.25-19.57.13:938][307]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.85 sec, max 4.18 sec, min 1.01 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 15.87% of total time (compiled   27 times, average 14.15 sec, max 50.67 sec, min 0.82 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display:                                             FDeferredLightPS - 15.65% of total time (compiled  454 times, average 0.83 sec, max 2.13 sec, min 0.64 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.12% of total time (compiled  480 times, average 0.36 sec, max 2.32 sec, min 0.15 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.84% of total time (compiled   72 times, average 1.62 sec, max 2.35 sec, min 1.18 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.50% of total time (compiled  192 times, average 0.56 sec, max 1.83 sec, min 0.26 sec)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: === Material stats ===
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Materials Translated:    138
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Material Translation Only: 0.03 s (47%)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.06.25-19.57.13:939][307]LogShaderCompilers: Display: ================================================
+[2026.06.25-19.59.52:996][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 708.764099
+[2026.06.25-19.59.53:996][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.25-19.59.53:996][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 709.430969, Update Interval: 339.048431
