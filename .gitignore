@@ -23,11 +23,6 @@ GhoulsSurvivors/DerivedDataCache/
 GhoulsSurvivors/Intermediate/
 GhoulsSurvivors/Saved/
 
-# Si quieres conservar configuraciones del editor,
-# comenta la línea anterior y usa estas en su lugar:
-# Saved/*
-# !Saved/Config/
-
 # Logs
 *.log
 
