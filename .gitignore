@@ -1,0 +1,70 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Build outputs
+Binaries/
+Build/*
+!Build/**/*.ico
+
+# Generated files
+GhoulsSurvivors/DerivedDataCache/
+GhoulsSurvivors/Intermediate/
+GhoulsSurvivors/Saved/
+
+# Logs
+*.log
+
+# Crash dumps
+*.dmp
+
+# Autosaves
+GhoulsSurvivors/Saved/Autosaves/
+GhoulsSurvivors/Saved/Backup/
+
+# Cooked/Packaged
+GhoulsSurvivors/Saved/Cooked/
+GhoulsSurvivors/Saved/StagedBuilds/
+
+# Unreal cache
+DerivedDataCache/
+
+# HLOD
+*_BuiltData.uasset
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Compiled objects
+*.obj
+*.o
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.exp
+*.lib
+
+# Temporary
+*.tmp
+*.temp
