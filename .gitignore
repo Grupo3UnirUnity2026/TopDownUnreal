@@ -19,9 +19,9 @@ Build/*
 !Build/**/*.ico
 
 # Generated files
-DerivedDataCache/
-Intermediate/
-Saved/
+GhoulsSurvivors/DerivedDataCache/
+GhoulsSurvivors/Intermediate/
+GhoulsSurvivors/Saved/
 
 # Si quieres conservar configuraciones del editor,
 # comenta la línea anterior y usa estas en su lugar:
@@ -35,12 +35,12 @@ Saved/
 *.dmp
 
 # Autosaves
-Saved/Autosaves/
-Saved/Backup/
+GhoulsSurvivors/Saved/Autosaves/
+GhoulsSurvivors/Saved/Backup/
 
 # Cooked/Packaged
-Saved/Cooked/
-Saved/StagedBuilds/
+GhoulsSurvivors/Saved/Cooked/
+GhoulsSurvivors/Saved/StagedBuilds/
 
 # Unreal cache
 DerivedDataCache/
